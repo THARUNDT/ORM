@@ -42,8 +42,9 @@ class Football_playerAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
+![Screenshot 2023-10-13 145256](https://github.com/THARUNDT/ORM/assets/144871537/cc2e6955-f198-4914-b468-098a5bc36759)
 
-![Alt text](<Screenshot 2023-10-13 145256.png>)
+
 
 
 ## RESULT
